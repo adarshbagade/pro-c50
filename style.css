@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(73, 221, 209);
+
+}
+h1{
+    color: blue;
+    
+}
+.heading{
+    background-color: burlywood;
+    font-size:30;
+}
+.grid{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-between;
+}
